@@ -1,1 +1,1 @@
-Projeto Teste em Java Spring boot com o objetivo de práticar conceitos básicos de desenvolvimento de software.
+Java Spring Boot Test Project with the purpose of practicing basic software development concepts.
